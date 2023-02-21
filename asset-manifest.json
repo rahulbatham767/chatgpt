@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/chatgpt/static/js/main.3a5d9a2d.js",
+    "main.js": "/chatgpt/static/js/main.7f4b4914.js",
     "static/media/195.jpg": "/chatgpt/static/media/195.0a583fc4521ff0223f2b.jpg",
     "static/media/7309681.jpg": "/chatgpt/static/media/7309681.749667cc5449de2b9786.jpg",
     "index.html": "/chatgpt/index.html",
-    "main.3a5d9a2d.js.map": "/chatgpt/static/js/main.3a5d9a2d.js.map"
+    "main.7f4b4914.js.map": "/chatgpt/static/js/main.7f4b4914.js.map"
   },
   "entrypoints": [
-    "static/js/main.3a5d9a2d.js"
+    "static/js/main.7f4b4914.js"
   ]
 }
